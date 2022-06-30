@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=neutro_jina%20&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=0:FFCCCC,100:CC6666&height=180&section=header&text=neutro_jina%20&fontSize=80&fontColor=FFFFFF)
 
 
 ### Hi there 👋
