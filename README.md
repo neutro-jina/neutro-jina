@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neutro-jina&show_icons=true&theme=radical)
+
 <!--
 **neutro-jina/neutro-jina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ✨You can contact me here!✨ 
 
  <a href="https://blog.naver.com/kimjina1997"><img src="https://img.shields.io/badge/naver_blog-03C75A?style=flat-square&logo=naver_blog&logoColor=white"/></a>
  
