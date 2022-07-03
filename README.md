@@ -1,3 +1,5 @@
+<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:FFCCCC,100:CC6666&height=180&section=header&text=neutro_jina%20&fontSize=80&fontColor=FFFFFF)
 
@@ -21,8 +23,6 @@
 ### ✨How to reach me✨ 
 
  <a href="https://blog.naver.com/kimjina1997"><img src="https://img.shields.io/badge/naver_blog-03C75A?style=flat-square&logo=naver_blog&logoColor=white"/></a>
- 
- 
- 
+
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
